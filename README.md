@@ -2,6 +2,9 @@
 
 StudyFlow is a modern Pomodoro focus web app inspired by Pomofocus. It combines a polished glassmorphism interface, animated ambience themes, keyboard-friendly focus mode, Supabase authentication, and lightweight productivity analytics.
 
+##working prototype
+-https://studyflow-timer.vercel.app/
+
 ## Features
 
 - **Supabase Auth**: login, signup, persistent sessions, and a guest mode fallback.
