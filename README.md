@@ -88,4 +88,4 @@ src/
 ## Notes
 
 - StudyFlow intentionally does **not** store local audio files. Completion sounds are generated in the browser with the Web Audio API.
-- Guest analytics are stored in `localStorage`; authenticated analytics are stored in Supabase.
+
